@@ -35,3 +35,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### You think my design skills sucks?
 
 Say it agian.
+#
+    	###current_time
+    	#Hello
+    	###current_time
+    	Today was a beautiful day.#Hello Agaim
+    	###current_time
+    	Trying to code
+  #Nefes
+  ###current_time
+  Nefes alamadan seviyorum seni
