@@ -44,3 +44,9 @@ Say it agian.
  
  Seviyorum seni.
  
+ #nefea
+ 
+ ###current_time
+ 
+ seviyourum seni
+ 
